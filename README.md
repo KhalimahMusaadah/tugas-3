@@ -4,7 +4,7 @@
 
 ## Hasil 
 ![Login page](Login.png)
-![Berhasil Login](Berhasil_Login.png)
-![Side menu](Side_Menu.png)
-![Schedule page](Schedule_Page.png)
-![About page](About_page.png)
+![Berhasil Login](BerhasilLogin.png)
+![Side menu](SideMenu.png)
+![Schedule page](SchedulePage.png)
+![About page](AboutPage.png)
